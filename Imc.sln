@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+# Visual Studio Version 18
+VisualStudioVersion = 18.11.12306.390 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imc.Maui", "Imc.Maui\Imc.Maui.csproj", "{31959E3C-3BBA-4745-BDDA-D40B0E161E7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imc.Console", "Imc.Console\Imc.Console.csproj", "{70023265-ED51-40F5-8121-1E66CA5B3D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imc.Models", "Imc.Models\Imc.Models.csproj", "{15206A73-0D0E-49C9-B177-ABB1BB01BABA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{31959E3C-3BBA-4745-BDDA-D40B0E161E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31959E3C-3BBA-4745-BDDA-D40B0E161E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31959E3C-3BBA-4745-BDDA-D40B0E161E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70023265-ED51-40F5-8121-1E66CA5B3D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70023265-ED51-40F5-8121-1E66CA5B3D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70023265-ED51-40F5-8121-1E66CA5B3D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70023265-ED51-40F5-8121-1E66CA5B3D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15206A73-0D0E-49C9-B177-ABB1BB01BABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15206A73-0D0E-49C9-B177-ABB1BB01BABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15206A73-0D0E-49C9-B177-ABB1BB01BABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15206A73-0D0E-49C9-B177-ABB1BB01BABA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
